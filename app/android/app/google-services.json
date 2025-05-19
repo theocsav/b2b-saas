@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088975160587",
+    "project_id": "b2b-saas-defa2",
+    "storage_bucket": "b2b-saas-defa2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088975160587:android:8ba8e5a4252beb7b86ce0e",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcQIUrg7XqTnOFNNhz9LnNBYq8wcb8GMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
